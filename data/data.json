@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Redmi 13C 5G",
+      "price": 10499,
+      "imageUrl": "assets/images/Redmi 13C 5G.jpeg",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sunt nam necessitatibus voluptatibus deleniti maiores blanditiis ex tempore recusandae velit saepe error nemo, vitae hic natus non exercitationem, sequi ut? Delectus."
+    },
+    {
+      "id": "2",
+      "name": "Daikin 1.5 Ton AC",
+      "price": 36999,
+      "imageUrl": "assets/images/Daikin  ac.jpeg",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sunt nam necessitatibus voluptatibus deleniti maiores blanditiis ex tempore recusandae velit saepe error nemo, vitae hic natus non exercitationem, sequi ut? Delectus."
+    },
+    {
+      "id": "3",
+      "name": "Apple AirPods Pro",
+      "price": 19999,
+      "imageUrl": "assets/images/airpods pro .jpeg",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sunt nam necessitatibus voluptatibus deleniti maiores blanditiis ex tempore recusandae velit saepe error nemo, vitae hic natus non exercitationem, sequi ut? Delectus."
+    },
+    {
+      "id": "4",
+      "name": "Samsung Smart LED TV",
+      "price": 49990,
+      "imageUrl": "assets/images/samsung tv.jpeg",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sunt nam necessitatibus voluptatibus deleniti maiores blanditiis ex tempore recusandae velit saepe error nemo, vitae hic natus non exercitationem, sequi ut? Delectus."
+    },
+    {
+      "id": "5",
+      "name": "Fire-Boltt 4G Pro Volte Calling Smart Watch",
+      "price": 2999,
+      "imageUrl": "assets/images/FIRE-BOLTT 4G Pro.jpeg",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sunt nam necessitatibus voluptatibus deleniti maiores blanditiis ex tempore recusandae velit saepe error nemo, vitae hic natus non exercitationem, sequi ut? Delectus."
+    },
+    {
+      "id": "6",
+      "name": "LG Smart Inverter Double Door Refrigerator",
+      "price": 38990,
+      "imageUrl": "assets/images/fridge.jpeg",
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sunt nam necessitatibus voluptatibus deleniti maiores blanditiis ex tempore recusandae velit saepe error nemo, vitae hic natus non exercitationem, sequi ut? Delectus."
+    }
+  ]
+}
